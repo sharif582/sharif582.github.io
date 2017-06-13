@@ -107,6 +107,7 @@ p {
 
 .about-container {
 	width: 50%;
+	text-align: justify;
 }
 
 .about {
