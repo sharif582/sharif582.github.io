@@ -3,7 +3,6 @@
 <p><span style="color: #774800;"><strong>INSTRUCTOR INFORMATION</strong></span></p>
 <p>Sharif Shahadat</p>
 <p><strong>Email:</strong> <a href="mailto:sshahadat1@niu.edu" target="_blank">sshahadat1@niu.edu</a></p>
-<p><strong>Office:</strong> Gabel Hall 212</p>
 <p><strong>Office Hours:</strong> Every Thursday from 1:00 - 2:00 PM at <a href="https://connect.niu.edu/SSO/SignIn?ReturnUrl=https%3A%2F%2Fconnect.niu.edu%2Fett229_section3" target="_blank">Adobe Connect</a></p>
 <br />
 <p><span style="color: #774800;"><strong>SUPPORT SESSIONS<br /></strong></span></p>
