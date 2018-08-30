@@ -12,7 +12,7 @@
 </div>
 <div style="position: relative; margin-right: 29%; border-right: 1px solid gray; padding-right: 1em; padding-top: 1em;">
 <p><strong style="font-size: 15.6px;"><span style="color: #774800;">Course Description</span></strong></p>
-<p>Exploration of the fundamental operations and concepts of computer technologies to facilitate learning in today’s P-12 classrooms. </p>
+<p>Exploration of the fundamental operations and concepts of computer technologies to facilitate learning in today's P-12 classrooms. </p>
 <h4><strong style="font-size: 15.6px;"><span style="color: #774800;">Getting Started</span></strong></h4>
 <ol>
 <li>Read the course syllabus.</li>
